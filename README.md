@@ -8,7 +8,7 @@ CGGA is a computational framework that can effectively and reliably uncover canc
 
 **Requirements**
 
->>= MATLAB 2014b. 
+\>= MATLAB 2014b. 
 
 **Usage**
 
