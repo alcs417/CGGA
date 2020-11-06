@@ -20,7 +20,7 @@ All the cancer datasets used in the code can be directly downloaded at http://ac
 
 **Parameters**
 
-There are three parameters that users can tune according to their needs, i.e. lambda, the number of neighbors k and the number of layers in CGGA. The default values for lambda and k are fixed to 1e-5 and 15, respectively. The number of layers in CGGA is set to 2 and user can specify a larger value to construct a deeper graph autoencoder.
+There are three parameters in our algorithm that users can tune according to their own needs, i.e. lambda, the number of neighbors k and the number of layers in CGGA. The default values for lambda and k are fixed to 1e-5 and 15, respectively. The number of layers in CGGA is set to 2 and user can specify a larger value to construct a deeper graph autoencoder.
 
 **Input and Output Directories**
 
