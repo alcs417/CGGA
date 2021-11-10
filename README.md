@@ -1,6 +1,10 @@
-# CGGA
+#CGGA
 
 Cancer Subtype Identification by Consensus Guided Graph AutoEncoders
+
+**Update**
+
+We have uploaded the processed cancer datasets under the cancer_datasets/ directory. Each cancer dataset consists of three omics and could be loaded into the Matlab directly.
 
 **Method Description**
 
@@ -29,3 +33,8 @@ To change the input file directory, please refer to the 'dataDir' variable in th
 **Contact**
 
 For any questions regarding our work, please feel free to contact us: alcs417@sdnu.edu.cn.
+
+**Cite Our Paper**
+
+Cheng Liang, Mingchao Shang, Jiawei Luo. Cancer subtype identification by consensus guided graph autoencoders. Bioinformatics, 2021, doi: 10.1093/bioinformatics/btab535.
+
