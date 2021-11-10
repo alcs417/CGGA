@@ -1,6 +1,6 @@
 ## Cancer Subtype Identification by Consensus Guided Graph AutoEncoders(CGGA)
 
-**Update**
+**:point_right:Update**
 
 We have uploaded the processed cancer datasets under the cancer_datasets/ directory. Each cancer dataset consists of three omics and could be loaded into the Matlab directly.
 
