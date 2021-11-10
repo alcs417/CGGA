@@ -1,6 +1,4 @@
-#CGGA
-
-Cancer Subtype Identification by Consensus Guided Graph AutoEncoders
+***Cancer Subtype Identification by Consensus Guided Graph AutoEncoders***
 
 **Update**
 
